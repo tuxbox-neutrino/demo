@@ -1,0 +1,7 @@
+.deps
+.libs
+.swp
+Makefile
+Makefile.in
+demo
+demo.o
